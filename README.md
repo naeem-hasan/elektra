@@ -85,3 +85,6 @@ Sure!
 You can find all of these puzzles' codes in the examples folder!
 
 I'd love if you contributed!
+
+## Note:
+I wouldn't say my Elektra is really fast. Also, I didn't write the word_search.py file myself, only edited it a lot. I found the original script somewhere which I totally forgot. I'm feeling really bad for not being able to credit the actual author.
