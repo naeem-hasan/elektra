@@ -76,6 +76,7 @@ Sure!
 ![custom_color](https://raw.githubusercontent.com/naeem-hasan/elektra/master/examples/colors.jpg)
 
 ![custom_font_color](https://raw.githubusercontent.com/naeem-hasan/elektra/master/examples/font_color.jpg)
+
 You can find all of these puzzles' codes in the examples folder!
 
 I'd love if you contributed!
