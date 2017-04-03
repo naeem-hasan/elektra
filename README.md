@@ -57,6 +57,7 @@ For making the puzzle:
   * 3 - Right, down, up, with right diagonals
   * 4 - All directions, with right diagonals
   * 5 - All directions, with all diagonals
+* `set_iterations(x) - Default is 30. An iteration is like an attempt to place the words.
 
 Note that, the default difficulty level is 2. You can simply specify it when you're making the object too!
 
@@ -67,6 +68,10 @@ And the following methods are for visual customization:
 * `set_box_size(size)` - Takes a (x, y) tuple. You can set the cell size here. Default is (80, 80).
 * `set_font_path(path)`, `set_font_size(x)`, `set_font_color(x)` - These are the methods for customizing fonts and text style.
 * `set_color_generator(generator)` - Pass on your color generator function if you wish. It uses a random color generator by default.
+
+For solutions:
+* `get_solutions()` - Returns a list with [word, pos, direction] for each used word in the grid.
+* `print_solutions()` - Prints all the used words' positions and directions.
 
 ## Show me some puzzles made with Elektra.
 Sure!
