@@ -51,12 +51,12 @@ For making the puzzle:
 * `add_words(*args)` - Self explanatory. Use multiple arguments, if you want to use a list, don't forget to put an asterisk sign like this `search.add_words(*mylist)`.
 * `set_grid_size(size)` - Specify the grid size by providing it a two number tuple like (x, y).
 * `set_difficulty(difficulty)` - Set your puzzle difficulty with it! Use a number from 0 to 5.
-* 0 - Right
-* 1 - Right, down
-* 2 - Right, down, with right-down diagonals
-* 3 - Right, down, up, with right diagonals
-* 4 - All directions, with right diagonals
-* 5 - All directions, with all diagonals
+  * 0 - Right
+  * 1 - Right, down
+  * 2 - Right, down, with right-down diagonals
+  * 3 - Right, down, up, with right diagonals
+  * 4 - All directions, with right diagonals
+  * 5 - All directions, with all diagonals
 
 Note that, the default difficulty level is 2. You can simply specify it when you're making the object too!
 
