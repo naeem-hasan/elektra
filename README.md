@@ -70,6 +70,7 @@ And the following methods are for visual customization:
 
 ## Show me some puzzles made with Elektra.
 Sure!
+
 ![custom_border](https://raw.githubusercontent.com/naeem-hasan/elektra/master/examples/with_border.jpg)
 
 ![custom_color](https://raw.githubusercontent.com/naeem-hasan/elektra/master/examples/colors.jpg)
